@@ -1,0 +1,11 @@
+10
+P
+(P1
+\neg P1
+(wedge P1 P2)
+(vee true false)
+(\rightarrow)
+(\leftrightarrow P1)
+(\neg \wedge P1 P2)
+(\vee P1 P2 P3)
+(\rightarrow true false))
